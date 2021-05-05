@@ -4,6 +4,6 @@ _Como dice en el título, este proyecto maneja el evento de Dark Mode de una pag
 
 ## Comenzando 🚀
 
-_Para que se entienda lo que hace el proyecto puedes visitar la página que he creado para este ejercicio._
+_Para que se entienda lo que hace el proyecto puedes visitar la página que he creado para este ejercicio con tematica de un Dashboard Social Media._
 
 Mira la **DEMO** en: https://davmagic.github.io/dark-mode-JS/
